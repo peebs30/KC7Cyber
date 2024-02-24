@@ -1,3 +1,7 @@
+
+[[KQL 101|Section 1 Challenges]]
+[[Pumpkin Patch Pirates|Section 2 Challenges]]
+
 # Welcome to Spooky Sweets Candy Company
 Today is your first day as a Junior Security Operations Center (SOC) Analyst with our company. Your primary job responsibility is to defend Spooky Sweets Candy Company and our employees from malicious cyber actors.
 
